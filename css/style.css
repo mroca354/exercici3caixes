@@ -1,3 +1,7 @@
+ .h1{
+  text size: 10px;
+  text-align: center;
+ }
  .caixa1{
     background-color: chocolate;
     width: 300px;
