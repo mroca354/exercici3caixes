@@ -25,3 +25,46 @@
     height: 900px;
     border:#2e518b 5px dashed;
   }
+/* instruccions de css per model de caixes
+width
+height
+
+padding   (expresió minificada)
+padding-top
+padding-right
+padding-bottom
+padding-left
+
+margin (expresió minificada)
+margin-top
+margin-right
+margin-bottom
+margin-left
+
+
+style, color, width
+
+border (expresió minificada)
+border-top
+border-right
+border-bottom
+border-left
+
+border-width (expresió minificada)
+border-top-width
+border-right-width
+border-bottom-width
+border-left-width
+
+border-style (expresió minificada)
+border-top-style
+border-right-style
+border-bottom-style
+border-left-style
+
+border-color (expresió minificada)
+border-top-color
+border-right-color
+border-bottom-color
+border-left-color
+*/
